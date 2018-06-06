@@ -1,0 +1,65 @@
+
+body{ margin: 0; background-image: url(../images/back.jpg); background-repeat: no-repeat; background-size: cover;}
+
+header {padding:  10px;background-color: #152129;width: 100%;margin-top: 0px;}
+header img{
+    margin-left:  200px;
+}
+.password-input{ padding:  6px;
+width: 220px;}
+.email-input{
+    padding:  6px;
+    margin-left: 620px;
+    width: 220px;
+}
+.name-input{
+    width: 95px;
+    height: 32px;
+    background-color: #9086862e;
+    border:  1px solid;
+    font-size: 18px;
+    color:  white;
+}
+header a{margin-left: 22px;color: #ffffffba;text-decoration:  none;}
+.form-section{margin-left:  710px;margin-top: 180px;width:  500px;}
+.form-text{
+    background: #F6F8FA;
+    border-bottom: 1px solid #D1D3D5;
+}
+.form-text h2{
+    font-weight:  normal;
+    font-size: 25px;
+    text-align:  center;
+    padding-top: 25px;
+}
+.form-section p{
+    font-weight: 500;
+    text-align: center;
+    margin-top:  -10px;
+    font-size:  18px;
+}
+.input-section{
+    height: 470px;
+    background-color:  #EDF0F3;
+}
+.input-section label{
+    padding-top: 15px;
+    margin-left:  20px;
+    display:  block;
+}
+.input-section input{
+    margin-bottom: 5px;
+    margin-left: 20px;
+    width: 89%;
+    padding:  6px;
+}
+.input-section h6{
+    color: #8a8a8a;
+    font-weight: 520;
+    margin:  0 auto;
+    width: 390px;
+    font-size: 12px;
+    text-align:  center;
+    margin-top: 15px;
+}
+.input-section button{margin: 19px 20px;width: 92%;height:  40px;background-color:  #006097;border:  none;color:  white;font-weight:  bold;font-size:  19px;}
