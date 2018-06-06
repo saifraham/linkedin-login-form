@@ -21,7 +21,7 @@ width: 220px;}
     color:  white;
 }
 header a{margin-left: 22px;color: #ffffffba;text-decoration:  none;}
-.form-section{margin-left:  710px;margin-top: 180px;width:  500px;}
+.form-section{margin-left:  710px;margin-top: 200px;width: 450px;}
 .form-text{
     background: #F6F8FA;
     border-bottom: 1px solid #D1D3D5;
@@ -50,7 +50,7 @@ header a{margin-left: 22px;color: #ffffffba;text-decoration:  none;}
 .input-section input{
     margin-bottom: 5px;
     margin-left: 20px;
-    width: 89%;
+    width: 88%;
     padding:  6px;
 }
 .input-section h6{
@@ -62,4 +62,4 @@ header a{margin-left: 22px;color: #ffffffba;text-decoration:  none;}
     text-align:  center;
     margin-top: 15px;
 }
-.input-section button{margin: 19px 20px;width: 92%;height:  40px;background-color:  #006097;border:  none;color:  white;font-weight:  bold;font-size:  19px;}
+.input-section button{margin: 19px 20px;width: 91%;height:  40px;background-color:  #006097;border:  none;color:  white;font-weight:  bold;font-size:  19px;}
